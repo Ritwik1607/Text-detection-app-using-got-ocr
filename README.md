@@ -1,4 +1,4 @@
-Here's a README for your OCR application that uses Streamlit, EasyOCR, and GOT-OCR for English and Hindi text extraction.
+
 
 ---
 
@@ -118,4 +118,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Feel free to customize the repository link and other details as necessary!
